@@ -2,7 +2,7 @@
 
 ### DevOps 
 
-Currently learning DevOps, Linux, Docker, Python, and SQL while building a foundation in cloud infrastructure and data engineering.
+Currently learning  Linux, Docker, Python, and SQL while building a foundation in cloud infrastructure and data engineering.
 
 - 🔭 Learning: DevOps Engineering, Data Engineering
 - 🛠️ Skills: Linux, Docker, Python, SQL
