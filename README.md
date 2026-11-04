@@ -1,12 +1,12 @@
 # H M Abdullah Tahsin
 
-### DevOps Learner | Aspiring AI Cloud Infra Engineer
+### DevOps 
 
 Currently learning DevOps, Linux, Docker, Python, and SQL while building a foundation in cloud infrastructure and data engineering.
 
 - 🔭 Learning: DevOps Engineering, Data Engineering
 - 🛠️ Skills: Linux, Docker, Python, SQL
-- 🌱 Goal: AI Cloud Infra Engineer
+- 🌱 Goal: DevOps Engineer
 - 📫 LinkedIn: [H M Abdullah Tahsin](https://www.linkedin.com/in/h-m-abdullah-tahsin-a8602a43a)
 
 ## Current Focus
